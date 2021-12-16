@@ -1,2 +1,4 @@
 # Schedule_Bar_Workers
-fixing shifts between workers in different hours and different days
+shifts arrangement between workers in different hours and different days in a resturant.
+managing supllyers orders
+ 
